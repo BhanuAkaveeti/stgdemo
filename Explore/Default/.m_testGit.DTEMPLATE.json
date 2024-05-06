@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "03Em92k62ltgxJOPehuCwo",
+    "name" : "m_testGit",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01CVYH17000000000002"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2024-05-06T18:07:37.219Z",
+  "objectRefs" : [ ]
+}
